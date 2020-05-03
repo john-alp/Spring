@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d4e22e5-3dc8-424b-863b-d18addab8424" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/Java/org/demiurg/ClassicaMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/org/demiurg/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/org/demiurg/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/org/demiurg/Relax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/org/demiurg/RockMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../db/target/test-classes/db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../db/target/test-classes/target/test-classes/db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../db/target/test-classes/target/test-classes/target/test-classes/db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../db/target/test-classes/target/test-classes/target/test-classes/target/test-classes/db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../db/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../db/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../db/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../db/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../db/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../db/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../db/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/db.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StartJava" beforeDir="false" afterPath="$PROJECT_DIR$/../../StartJava" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../db/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../db/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../db/src/main/java/TestConnectionsAddBatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../db/src/main/java/TestConnectionsAddBatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../db/target/classes/TestConnectionsAddBatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../db/target/classes/TestConnectionsAddBatch.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1bO4lVX1gBrBdDCQqEoVDLn1IFX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestSpring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.demiurg.TestSpring" />
+      <module name="StartSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.demiurg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestSpring" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d4e22e5-3dc8-424b-863b-d18addab8424" name="Default Changelist" comment="" />
+      <created>1588489956449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588489956449</updated>
+      <workItem from="1588489958706" duration="4734000" />
+      <workItem from="1588500937295" duration="5933000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="226" key="#Notifications" timestamp="1588489982558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="568" y="226" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1588489982558" />
+    <state x="163" y="0" key="#Project_Structure" timestamp="1588490947063">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1588490947063" />
+    <state x="380" y="0" width="619" height="728" key="#TestSpring" timestamp="1588504196619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="0" width="619" height="728" key="#TestSpring/0.0.1366.728@0.0.1366.728" timestamp="1588504196619" />
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1588501701780">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588501701780" />
+    <state width="1323" height="204" key="GridCell.Tab.0.bottom" timestamp="1588506425448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588506425448" />
+    <state width="1323" height="204" key="GridCell.Tab.0.center" timestamp="1588506425447">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588506425447" />
+    <state width="1323" height="204" key="GridCell.Tab.0.left" timestamp="1588506425447">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588506425447" />
+    <state width="1323" height="204" key="GridCell.Tab.0.right" timestamp="1588506425448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588506425448" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1588504465786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588504465786" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1588504465786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588504465786" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1588504465786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588504465786" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1588504465786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588504465786" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1588505978021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588505978021" />
+    <state x="355" y="46" key="spring file set editor" timestamp="1588491764735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="355" y="46" key="spring file set editor/0.0.1366.728@0.0.1366.728" timestamp="1588491764735" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/Java/org/demiurg/MusicPlayer.java</url>
+          <line>5</line>
+          <properties field="music" class="org.demiurg.MusicPlayer" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Java/org/demiurg/MusicPlayer.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
