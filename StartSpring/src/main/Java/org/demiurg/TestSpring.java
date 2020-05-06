@@ -15,15 +15,24 @@ public class TestSpring {
         /*
         получаем бин с id musicBean и класса Music.class
          */
-        Music music = context.getBean("musicBean",Music.class);
+        // Music music = context.getBean("musicBean",Music.class);
+        // MusicPlayer musicPlayer = context.getBean("musicPlayer",MusicPlayer.class);
+        MusicPlayer musicPlayer = context.getBean("playList",MusicPlayer.class);
         /*
         Создаем обьект класса MusicPlayer и кладем ему в конструктор обьект полученный с помощью getBean
          */
-        MusicPlayer musicPlayer = new MusicPlayer(music);
+        // MusicPlayer musicPlayer = new MusicPlayer(music);
         /*
         Запускаем метод playMusic из класса MusicPlayer
          */
-        musicPlayer.playMusic();
+        //musicPlayer.playMusic();
+        musicPlayer.playMusicList();
+        /*
+        выводим внедрённые значения из класса MusicPlayer
+         */
+        System.out.println(musicPlayer.getNameSong());
+        System.out.println(musicPlayer.getVolume());
+
         /*
         Закрывваем сеанс
          */

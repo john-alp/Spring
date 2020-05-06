@@ -1,8 +1,8 @@
 package org.demiurg;
 
-public class Relax implements Music {
+public class RelaxMusic implements Music {
     @Override
-    public String toSong() {
+    public String getSong() {
         return "demiurg hear the relax music";
     }
 }

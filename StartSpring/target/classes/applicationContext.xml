@@ -6,13 +6,47 @@
         http://www.springframework.org/schema/beans/spring-beans.xsd
         http://www.springframework.org/schema/context
         http://www.springframework.org/schema/context/spring-context.xsd">
+    <!-- Подключаем файл лежащий в папке resources -->
+    <context:property-placeholder location="classpath:musicPlayer.properties" />
 
     <bean id="musicBean"
           class="org.demiurg.RockMusic">
     </bean>
 
     <bean id="superBean"
-          class="org.demiurg.Relax">
+          class="org.demiurg.RelaxMusic">
+    </bean>
+    <!-- создаем бин для работы с геттером -->
+    <bean id="musicPlayer"
+        class="org.demiurg.MusicPlayer">
+            <property name="music" ref="musicBean"/>
+            <!-- <property name="nameSong" value="LilyPop"/> -->
+            <!-- <property name="volume" value="70"/> -->
+        <!-- берем данные из подключенного файла -->
+        <property name="nameSong" value="${musicPlayer.songName}"/>
+        <property name="volume" value="${musicPlayer.volume}"/>
+    </bean>
+
+<!--    Задание -->
+    <bean id="Rock"
+        class="org.demiurg.RockMusic">
+    </bean>
+    <bean id="Classic"
+            class="org.demiurg.ClassicaMusic">
+    </bean>
+    <bean id="Relax"
+    class="org.demiurg.RelaxMusic">
+    </bean>
+
+    <bean id="playList"
+    class="org.demiurg.MusicPlayer">
+    <property name="musicList">
+        <list>
+            <ref bean="Rock"/>
+            <ref bean="Classic"/>
+            <ref bean="Relax"/>
+        </list>
+    </property>
     </bean>
 
 </beans>

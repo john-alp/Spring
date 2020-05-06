@@ -2,7 +2,7 @@ package org.demiurg;
 
 public class ClassicaMusic implements Music {
     @Override
-    public String toSong() {
+    public String getSong() {
         return "do you hear classical music..";
     }
 }

@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d4e22e5-3dc8-424b-863b-d18addab8424" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/Java/org/demiurg/ClassicaMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/org/demiurg/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/org/demiurg/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/org/demiurg/Relax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/org/demiurg/RockMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../db/target/test-classes/db.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../db/target/test-classes/target/test-classes/db.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../db/target/test-classes/target/test-classes/target/test-classes/db.iml" afterDir="false" />
@@ -36,6 +33,22 @@
       <change afterPath="$PROJECT_DIR$/../../db/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/db.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../db/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/db.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../db/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/db.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/org/demiurg/ClassicaMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/org/demiurg/ClassicaMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/org/demiurg/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/org/demiurg/Music.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/org/demiurg/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/org/demiurg/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/org/demiurg/Relax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/org/demiurg/RelaxMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/org/demiurg/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/org/demiurg/RockMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/org/demiurg/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/org/demiurg/TestSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/demiurg/ClassicaMusic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/demiurg/ClassicaMusic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/demiurg/Music.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/demiurg/Music.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/demiurg/MusicPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/demiurg/MusicPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/demiurg/Relax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/demiurg/RockMusic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/demiurg/RockMusic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/demiurg/TestSpring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/demiurg/TestSpring.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../StartJava" beforeDir="false" afterPath="$PROJECT_DIR$/../../StartJava" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../db/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../db/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../db/src/main/java/TestConnectionsAddBatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../db/src/main/java/TestConnectionsAddBatch.java" afterDir="false" />
@@ -55,7 +68,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1bO4lVX1gBrBdDCQqEoVDLn1IFX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -115,7 +128,8 @@
       <option name="presentableId" value="Default" />
       <updated>1588489956449</updated>
       <workItem from="1588489958706" duration="4734000" />
-      <workItem from="1588500937295" duration="5933000" />
+      <workItem from="1588500937295" duration="8426000" />
+      <workItem from="1588660456208" duration="14040000" />
     </task>
     <servers />
   </component>
@@ -154,22 +168,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588501701780" />
-    <state width="1323" height="204" key="GridCell.Tab.0.bottom" timestamp="1588506425448">
+    <state width="1323" height="125" key="GridCell.Tab.0.bottom" timestamp="1588759067742">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588506425448" />
-    <state width="1323" height="204" key="GridCell.Tab.0.center" timestamp="1588506425447">
+    <state width="1323" height="125" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588759067742" />
+    <state width="1323" height="125" key="GridCell.Tab.0.center" timestamp="1588759067741">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588506425447" />
-    <state width="1323" height="204" key="GridCell.Tab.0.left" timestamp="1588506425447">
+    <state width="1323" height="125" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588759067741" />
+    <state width="1323" height="125" key="GridCell.Tab.0.left" timestamp="1588759067741">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588506425447" />
-    <state width="1323" height="204" key="GridCell.Tab.0.right" timestamp="1588506425448">
+    <state width="1323" height="125" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588759067741" />
+    <state width="1323" height="125" key="GridCell.Tab.0.right" timestamp="1588759067741">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588506425448" />
+    <state width="1323" height="125" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588759067741" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1588504465786">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -186,30 +200,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588504465786" />
-    <state x="184" y="8" key="SettingsEditor" timestamp="1588505978021">
+    <state x="184" y="8" key="SettingsEditor" timestamp="1588654367894">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588505978021" />
-    <state x="355" y="46" key="spring file set editor" timestamp="1588491764735">
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588654367894" />
+    <state x="355" y="46" key="spring file set editor" timestamp="1588758507327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="355" y="46" key="spring file set editor/0.0.1366.728@0.0.1366.728" timestamp="1588491764735" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/main/Java/org/demiurg/MusicPlayer.java</url>
-          <line>5</line>
-          <properties field="music" class="org.demiurg.MusicPlayer" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/Java/org/demiurg/MusicPlayer.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="355" y="46" key="spring file set editor/0.0.1366.728@0.0.1366.728" timestamp="1588758507327" />
   </component>
 </project>
